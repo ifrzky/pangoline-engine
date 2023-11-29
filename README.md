@@ -33,11 +33,11 @@ Contributions are welcome! If you have suggestions, feature requests, or found a
 
 ## License
 
-This software is distributed under the GNU General Public License (GPL). See the [LICENSE](path/to/LICENSE) file for more details.
+This software is distributed under the GNU General Public License (GPL). See the [LICENSE](LICENSE) file for more details.
 
 ## About
 
-Pangoline Engine is developed by [Your Name]. For more information, visit [link-to-your-website] or contact [your-email@example.com].
+Pangoline Engine is developed by Kelompok 2..
 
 ## Acknowledgments
 
