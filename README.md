@@ -25,7 +25,7 @@ Pangoline Engine is a file encryption tool designed to secure files using the Ad
 
 ## Usage Example
 
-![Pangoline Engine GUI](Assets/Screenshot 2023-11-29 202540.png)
+![Pangoline Engine GUI](Assets/prev.png)
 
 ## Contributing
 
