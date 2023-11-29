@@ -1,4 +1,4 @@
-# Pangoline Engine 0.7
+# Pangoline Engine 0.7 [BETA]
 
 Pangoline Engine is a file encryption tool designed to secure files using the Advanced Encryption Standard (AES) algorithm. It provides a graphical user interface for easy file selection, encryption, and decryption processes.
 
@@ -25,7 +25,7 @@ Pangoline Engine is a file encryption tool designed to secure files using the Ad
 
 ## Usage Example
 
-![Pangoline Engine GUI](path/to/screenshot.png)
+![Pangoline Engine GUI](Assets/Screenshot 2023-11-29 202540.png)
 
 ## Contributing
 
