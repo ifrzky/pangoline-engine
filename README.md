@@ -37,7 +37,7 @@ This software is distributed under the GNU General Public License (GPL). See the
 
 ## About
 
-Pangoline Engine is developed by Kelompok 2..
+Pangoline Engine is developed by ifrzky
 
 ## Acknowledgments
 
