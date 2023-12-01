@@ -247,7 +247,7 @@ public class Main {
             byte[] outputBytes;
 
             // Proses terakhir enkripsi dan simpan hasilnya di outputBytes
-            outputBytes = cipher.doFinal();
+            outputBytes = cipher.doFinal(inputBytes);
 
             /* Buat path file untuk menyimpan hasil enkripsi dengan menambahkan ekstensi
             * yang telah ditentukan oleh user
